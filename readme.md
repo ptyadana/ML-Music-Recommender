@@ -2,7 +2,7 @@
 
 A simple machine learning project for recommending the music genre based on age and gender.
 
-### Built with
+## Built with
 + Python 3
 + Pandas
 + Scikit-Learn
